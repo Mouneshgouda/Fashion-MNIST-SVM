@@ -1,0 +1,16 @@
+
+click==7.1.2
+conda
+Flask==1.1.2
+h5py==2.10.0
+Keras
+pylint
+pandas
+numpy
+Pillow
+PyYAML
+rsa
+scipy
+tensorflow
+
+

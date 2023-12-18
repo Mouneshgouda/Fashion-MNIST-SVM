@@ -1,0 +1,29 @@
+h1 {
+	/*color: white; */
+	font-size:48px;
+	color: white;
+
+}
+
+
+body {
+	background:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('static/runaway.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.result {
+	font-size:24px;
+	color: white;
+	text-align: center;
+	/*border: 3px solid green;*/
+}
+
+.center {
+	font-size:24px;
+  	margin: 0;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+}
