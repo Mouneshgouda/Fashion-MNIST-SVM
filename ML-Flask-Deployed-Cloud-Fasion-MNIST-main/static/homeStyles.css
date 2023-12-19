@@ -1,0 +1,29 @@
+.custom-file-upload {
+  color: white;
+  border: 2px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  text-align: center;
+}
+h1 {
+	color: white; 
+	font-size:48px;
+}
+p {
+	text-align: center;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+body {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('fashion-mnist-sprite.jpeg');
+}
+
+
